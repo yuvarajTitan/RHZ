@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Hola</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">Check BMI</string>
+    <string name="kgs">Kg</string>
+    <string name="cm">cm</string>
+    <string name="jumptobot">Jump To Bot</string>
+
+    <string name="very_severely_underweight">Very Severly Underweight</string>
+    <string name="severely_underweight">Severly Underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Over Class I</string>
+    <string name="obese_class_ii">Over Class I</string>
+    <string name="obese_class_iii">Over Class III</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!--Common stuff-->
+    <string name="glass1">1 Glass</string>
+    <string name="glass2">2 Glasses</string>
+    <string name="quantity">Quantity</string>
+    <string name="cals">Calories</string>
+    <string name="food">Food</string>
+    <string name="breakfast_meal">Breakfast Meal</string>
+    <string name="lunch_meal">Lunch Meal</string>
+    <string name="dinner">Dinner</string>
+
+    <!--number count-->
+    <string name="num1">1</string>
+    <string name="num200">200</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="n270">270</string>
+    <string name="n71">71</string>
+    <string name="n106">106</string>
+    <string name="n213">213</string>
+    <string name="n387">387</string>
+    <string name="n204">204</string>
+    <string name="n45">45</string>
+    <string name="n100">100</string>
+    <string name="n250">250</string>
+    <string name="num4">4</string>
+    <string name="b1">1 Bowl</string>
+    <string name="c1">1 Cup</string>
+    <string name="c2">2 Cups</string>
+    <string name="b2">2 Bowl</string>
+
+    <!---Strings for breakfast-->
+    <string name="dosa">Dosa</string>
+    <string name="idly">Idly</string>
+    <string name="chappathi">Chapathi</string>
+    <string name="Poori">Poori</string>
+    <string name="rava_ganji">Rava Ganji</string>
+
+
+    <!--Lunch-->
+    <string name="st_rice">Steamed Rice</string>
+    <string name="ragi_ball">Ragi ball</string>
+    <string name="rasam">Rasam</string>
+    <string name="butter_milk">Butter Milk</string>
+    <string name="veg_curry">Vegetable Curry</string>
+    <string name="c_c_salad">Cucumber and Carrot salad</string>
+    <string name="sambar">Sambar</string>
+    <string name="kozhambu">Kozhanmbu</string>
+    <string name="betroot_tharan">Beetroot tharan</string>
+    <string name="gaurd_dall">Gaurd dall</string>
+    <string name="cauli_cootu">Cauliflower Cootu</string>
+    <string name="coco_rice">Cocunut rice</string>
+    <string name="kathavarnga">Kathavaranga Cootu</string>
+
+    <!--Dinner-->
+    <string name="roti">Roti</string>
+    <string name="parota">Parota</string>
+    <string name="kurma">Kuruma</string>
+    <string name="tomato_Salad">Tomato Salad</string>
+    <string name="masor">Masoor dal</string>
+    <string name="chicken">Chicken Curry</string>
+    <string name="heading">Hey! Here is your diet chart</string>
+
+</resources>
